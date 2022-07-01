@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HassanGR
+- 👀 I’m interested in Rhythm games but I love mostly FNF 
+- 🌱 I’m currently learning Lua, python, html, java, js, and more!
